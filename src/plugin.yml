@@ -1,0 +1,31 @@
+name: TheMatrixAPI
+version: 1.0
+main: com.gamemster2468.thematrixapi.TheMatrixAPI
+author: gamemster2468
+commands:
+    Announce:
+        description: Announce a local message.
+    Fly:
+        description: Toggles player flight.
+    Help:
+        description: Shows all commands advilable to YOU.
+    HelpOp:
+        description: Sends a message to online staff.
+    Hub:
+        description: Teleports back to world hub.
+    Reload:
+        description: Reloads with countdown.
+    Restart:
+        description: Restart with countdown.
+    Say:
+        description: Broadcasts a local message to players.
+    UpdateRank:
+        description: Update players rank.
+    ST:
+        description: Opens staff tool GUI.
+    SetRank:
+        description: Changes users rank.
+    Resign:
+        description: Sets target to diamond.
+    Demote:
+        description: Sets target to default.
