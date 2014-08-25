@@ -12,4 +12,6 @@ package com.riskmc.test;
  */
 public class Test {
     
+    String hi;
+    
 }
